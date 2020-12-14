@@ -14,6 +14,6 @@ function changebc(){
     }
 }
 var colors = [
-     "chartreuse","cyan", "blueviolet"
+     "chartreuse","cyan", "blueviolet","yellow"
 ]
 var i = 0;
