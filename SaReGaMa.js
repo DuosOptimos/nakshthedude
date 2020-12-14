@@ -4,16 +4,16 @@ function changebc(){
     
     
         
-    if (i==1)
+    
+    
+
+    i++
+    if (i==3)
     {
-        i=2;
-    }
-    if (i==2)
-    {
-        i=1;
+        i=0;
     }
 }
 var colors = [
-     "blueviolet","cyan"
+     "chartreuse","cyan", "blueviolet"
 ]
-var i=1
+var i = 0;
