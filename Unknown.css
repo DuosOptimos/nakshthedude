@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+}
+p{
+    font-family: cursive;
+    color: orange;
+}
+#codepen{
+    color:black;
+}
+#youtube{
+    color:red;
+}
+#discord{
+    color:blue;
+}
