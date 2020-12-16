@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color: blueviolet;
+    background-color: linear-gradient(purple 0%, cyan 100%);
 }
 p{
     font-family: cursive;
